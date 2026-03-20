@@ -1,4 +1,5 @@
 Fork for storage / rememberance purposes: Found Here: [https://github.com/the-via/keyboards/issues/2362](https://github.com/the-via/keyboards/issues/2362)
+Everything in `external` folder is here for storage purpose of having a single place to look to
 
 # VIA Keyboards
 
